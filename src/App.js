@@ -113,7 +113,7 @@ function TicTacToe() {
       <Row>
     <Col>
     {renderResetButton()}
-    <h5 style={{margin: "10px"}}>TIC TAC TOE created in react by CoDaze GitHub: <a href='#'>asdasdasd</a></h5>
+    <h5 style={{margin: "10px"}}>TIC TAC TOE created in react by CoDaze GitHub: <a href='#'>https://github.com/DazeMind/TIC-TAC-TOE-in-react.git</a></h5>
     </Col>
   </Row>
     </Container>
